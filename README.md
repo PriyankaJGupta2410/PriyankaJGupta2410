@@ -27,5 +27,3 @@
 | [Library-Mangement](https://github.com/PriyankaJGupta2410/Library-Mangement) | Library management system with TypeScript frontend & Java backend |
 | [Expert-System](https://github.com/PriyankaJGupta2410/Expert-System) | Prolog expert systems for food recognition & family relationship inference |
 
-### 📊 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=default)
