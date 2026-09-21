@@ -19,7 +19,7 @@
 ### 📌 Featured Projects
 | Project | Description |
 |---|---|
-| [AI_Powered_Enterprise_Assistant](https://github.com/PriyankaJGupta2410/AI_Powered_Enterprise_Assistant) | Conversational enterprise assistant using FastAPI + Ollama (Llama3) with tool calling & PostgreSQL memory |
+| [Document_extraction](https://github.com/PriyankaJGupta2410/Document_extraction) | Intelligent document processing platform using FastAPI + OpenCV + Tesseract OCR + Ollama (Llama 3) to extract, validate, and structure data from Aadhaar, invoices, and driving licenses |
 | [Incentive_Calculator](https://github.com/PriyankaJGupta2410/Incentive_calculator) | Full-stack sales incentive management system (FastAPI, MySQL, JS frontend) |
 | [ERP-MANAGEMENT](https://github.com/PriyankaJGupta2410/ERP-MANAGEMENT) | School ERP system covering admissions, fees, library, staff & timetable |
 | [Library-Mangement](https://github.com/PriyankaJGupta2410/Library-Mangement) | Library management system with TypeScript frontend & Java backend |
