@@ -83,7 +83,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PriyankaJGupta2410&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    &nbsp;&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
