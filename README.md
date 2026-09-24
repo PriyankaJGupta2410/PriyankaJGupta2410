@@ -2,7 +2,7 @@
 <h3 align="center">🐍 Python Backend Developer | 📊 Data Scientist | 🤖 AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Data+Scientist+%7C+ML+Engineer;FastAPI+%7C+LLMs+%7C+RAG+Systems;Medical+Imaging+%7C+Fraud+Detection;Building+Smart+AI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenhter=true&width=600&lines=Python+Backend+Developer;Data+Scientist+%7C+ML+Engineer;FastAPI+%7C+LLMs+%7C+RAG+Systems;Medical+Imaging+%7C+Fraud+Detection;Building+Smart+AI+Tools" alt="Typing SVG" />
 </p>
 
 ---
@@ -83,9 +83,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PriyankaJGupta2410&theme=tokyonight" />
     &nbsp;&nbsp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PriyankaJGupta2410&theme=tokyonight" />
 </p>
 
 <p align="center">
