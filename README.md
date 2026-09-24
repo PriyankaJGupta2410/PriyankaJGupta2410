@@ -84,8 +84,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PriyankaJGupta2410&theme=tokyonight" />
-    &nbsp;&nbsp;
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PriyankaJGupta2410&theme=tokyonight" />
 </p>
 
 <p align="center">
