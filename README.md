@@ -59,7 +59,7 @@
 |--------|-------------|-----------|
 | [🤖 AI_Powered_Enterprise_Assistant](https://github.com/PriyankaJGupta2410/AI_Powered_Enterprise_Assistant) | AI-powered enterprise assistant for conversational business task automation | Python, FastAPI, Ollama (Llama 3), PostgreSQL |
 | [🧾 Document_Extraction](https://github.com/PriyankaJGupta2410/Document_extraction) | Intelligent document processing — extracts & validates data from Aadhaar, invoices, and driving licenses | Python, FastAPI, OpenCV, Tesseract OCR, Ollama |
-| [💰 Zuneko_Incentive_Calculator](https://github.com/PriyankaJGupta2410/Zuneko_Incentive_Calculator) | Full-stack sales incentive management system with rule engine for 500+ rules | Python, FastAPI, MySQL, Pandas, HTML/CSS/JS |
+| [💰 Incentive_Calculator](https://github.com/PriyankaJGupta2410/Incentive_calculator) | Full-stack sales incentive calculation system with JWT auth, role-based dashboards, and automated payroll calculations | Python, FastAPI, MySQL, JavaScript |
 | [💸 Spend_Tracker](https://github.com/PriyankaJGupta2410/spend_tracker) | Full-stack expense tracker with JWT auth, monthly summaries, and spending insights | Python, FastAPI, SQLAlchemy, MySQL, Node.js/Express |
 | [🧠 Expert-System](https://github.com/PriyankaJGupta2410/Expert-System) | Prolog expert systems for food recognition & family relationship inference | Prolog |
 
