@@ -12,7 +12,7 @@
 - 🔭 Currently building **AI-powered assistants and enterprise tools** with FastAPI, Ollama/LLMs, and PostgreSQL
 - 📊 Passionate about **Data Science** — working with Pandas, NumPy, Scikit-learn, and ML pipelines
 - 🌱 Exploring **RAG (Retrieval-Augmented Generation)**, LangChain, and Docker
-- 💼 Experienced in designing full-stack systems: incentive calculators, ERP platforms, and document processing
+- 💼 Experienced in designing full-stack systems: incentive calculators, expense trackers, and document processing
 - 📍 Based in Nashik, India
 - 📫 How to reach me: **[your.email@gmail.com]** | [LinkedIn](https://linkedin.com/in/priyankajgupta)
 
@@ -23,29 +23,33 @@
 #### 🐍 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 #### 📊 Data Science & AI/ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 #### 🔧 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### 🌐 Frontend (Basics)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -53,10 +57,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| [🧾 Document_Extraction](https://github.com/PriyankaJGupta2410/Document_extraction) | Intelligent document processing — extracts & validates data from Aadhaar, invoices, and driving licenses | FastAPI, OpenCV, Tesseract OCR, Ollama (Llama 3) |
-| [💰 Incentive_Calculator](https://github.com/PriyankaJGupta2410/Incentive_Calculator) | Full-stack sales incentive management system | FastAPI, MySQL, JavaScript |
-| [📚 Library-Management](https://github.com/PriyankaJGupta2410/Library-Mangement) | Library management system with modern frontend | TypeScript, Java |
-| [🧠 Expert-System](https://github.com/PriyankaJGupta2410/Expert-System) | Prolog expert systems for food recognition & family relationship inference | Prolog, AI |
+| [🤖 AI_Powered_Enterprise_Assistant](https://github.com/PriyankaJGupta2410/AI_Powered_Enterprise_Assistant) | AI-powered enterprise assistant for conversational business task automation | Python, FastAPI, Ollama (Llama 3), PostgreSQL |
+| [🧾 Document_Extraction](https://github.com/PriyankaJGupta2410/Document_extraction) | Intelligent document processing — extracts & validates data from Aadhaar, invoices, and driving licenses | Python, FastAPI, OpenCV, Tesseract OCR, Ollama |
+| [💰 Zuneko_Incentive_Calculator](https://github.com/PriyankaJGupta2410/Zuneko_Incentive_Calculator) | Full-stack sales incentive management system with rule engine for 500+ rules | Python, FastAPI, MySQL, Pandas, HTML/CSS/JS |
+| [💸 Spend_Tracker](https://github.com/PriyankaJGupta2410/spend_tracker) | Full-stack expense tracker with JWT auth, monthly summaries, and spending insights | Python, FastAPI, SQLAlchemy, MySQL, Node.js/Express |
+| [🧠 Expert-System](https://github.com/PriyankaJGupta2410/Expert-System) | Prolog expert systems for food recognition & family relationship inference | Prolog |
 
 ---
 
@@ -64,11 +69,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaJGupta2410&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PriyankaJGupta2410&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaJGupta2410&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +86,7 @@
 
 - 🔍 **RAG systems** with LangChain & vector databases (Pinecone / ChromaDB)
 - 🐳 **Docker & container orchestration** for production deployments
-- 📈 **Advanced ML pipelines** and model evaluation techniques
+- 📈 **Advanced ML pipelines** — model evaluation, feature engineering, hyperparameter tuning
 
 ---
 
