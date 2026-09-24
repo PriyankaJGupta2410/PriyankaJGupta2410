@@ -15,7 +15,7 @@
 - 💼 Built production-shaped full-stack systems: **fraud detection dashboard** (FastAPI + Streamlit + Docker + GitHub Actions CI/CD), **incentive calculator**, and **expense tracker** — all with JWT auth
 - 📊 Data Science skills: model evaluation (ROC-AUC, PR-AUC), feature engineering, hyperparameter tuning, and end-to-end ML pipelines
 - 📍 Based in Nashik, India
-- 📫 How to reach me: **[your.email@gmail.com]** | [LinkedIn](https://linkedin.com/in/priyankajgupta)
+- 📫 How to reach me: **[priyag8600@gmail.com]** | [LinkedIn](https://linkedin.com/in/priyankajgupta)
 
 ---
 
@@ -103,7 +103,7 @@
   <a href="https://linkedin.com/in/priyankajgupta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:priyag8600@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PriyankaJGupta2410" target="_blank">
