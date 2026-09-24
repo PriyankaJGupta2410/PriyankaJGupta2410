@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaJGupta2410&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyankaJGupta2410&theme=tokyonight" />
 </p>
 
 ---
