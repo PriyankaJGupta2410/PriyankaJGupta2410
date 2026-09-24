@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyanka Gupta</h1>
-<h3 align="center">🐍 Python Backend Developer | 📊 Data Scientist | 🤖 AI/LLM Enthusiast</h3>
+<h3 align="center">🐍 Python Backend Developer | 📊 Data Scientist | 🤖 AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Data+Scientist+%7C+ML+Explorer;FastAPI+%7C+LLMs+%7C+RAG+Systems;Building+Smart+AI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Data+Scientist+%7C+ML+Engineer;FastAPI+%7C+LLMs+%7C+RAG+Systems;Medical+Imaging+%7C+Fraud+Detection;Building+Smart+AI+Tools" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **AI-powered assistants and enterprise tools** with FastAPI, Ollama/LLMs, and PostgreSQL
-- 📊 Passionate about **Data Science** — working with Pandas, NumPy, Scikit-learn, and ML pipelines
-- 🌱 Exploring **RAG (Retrieval-Augmented Generation)**, LangChain, and Docker
-- 💼 Experienced in designing full-stack systems: incentive calculators, expense trackers, and document processing
+- 🤖 Building **AI-powered enterprise assistants** using FastAPI, Ollama (Llama 3), and PostgreSQL — conversational tools for real business workflows
+- 🧠 Hands-on **ML engineer**: medical imaging classification with **VGG16 transfer learning** (Grad-CAM interpretability) and credit card fraud detection with **SHAP explainability** and **SMOTE** for class imbalance
+- 🧾 Developed **intelligent document processing** pipelines — extracting and validating data from Aadhaar cards, invoices, and driving licenses using OCR + LLMs
+- 💼 Built production-shaped full-stack systems: **fraud detection dashboard** (FastAPI + Streamlit + Docker + GitHub Actions CI/CD), **incentive calculator**, and **expense tracker** — all with JWT auth
+- 📊 Data Science skills: model evaluation (ROC-AUC, PR-AUC), feature engineering, hyperparameter tuning, and end-to-end ML pipelines
 - 📍 Based in Nashik, India
 - 📫 How to reach me: **[your.email@gmail.com]** | [LinkedIn](https://linkedin.com/in/priyankajgupta)
 
@@ -30,9 +31,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,6 +52,7 @@
 
 #### 🔧 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -85,7 +92,7 @@
 ### 🌱 Currently Learning
 
 - 🔍 **RAG systems** with LangChain & vector databases (Pinecone / ChromaDB)
-- 🐳 **Docker & container orchestration** for production deployments
+- 🐳 **Container orchestration** with Docker Compose & Kubernetes basics
 - 📈 **Advanced ML pipelines** — model evaluation, feature engineering, hyperparameter tuning
 
 ---
