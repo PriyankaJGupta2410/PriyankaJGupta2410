@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Priyanka%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20|%20Data%20Scientist%20|%20AI%2FML%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Priyanka%20Gupta&fontSize=42&fontColor=ffhf&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20|%20Data%20Scientist%20|%20AI%2FML%20Engineer&descAlignY=55&descSize=18" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PriyankaJGupta2410&label=Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/PriyankaJGupta2410)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/priyankajgupta)
@@ -67,7 +67,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🧾 [Document_Extraction](https://github.com/PriyankaJGupta2410/Document_extraction.git) | Intelligent document processing — extracts & validates data from Aadhaar, invoices, and driving licenses | Python, FastAPI, OpenCV, Tesseract OCR, Ollama |
+| 🧾 [Document_Extraction](https://github.com/PriyankaJGupta2410/Document_extraction.git) | End-to-end document intelligence platform — LangGraph pipeline with PaddleOCR + Ollama (llama3.2) extracts structured JSON from Aadhaar, invoices & driving licences; RAG-powered Q&A over extracted documents with privacy masking; 84 Pytest tests | Python, FastAPI, PaddleOCR, LangChain, LangGraph, Ollama, Chroma, MySQL, Streamlit |
 | 💰 [Incentive_Calculator](https://github.com/PriyankaJGupta2410/Incentive_calculator.git) | Full-stack sales incentive system with JWT auth, role-based dashboards, and automated payroll calculations | Python, FastAPI, MySQL, JavaScript |
 | 💸 [spend_tracker](https://github.com/PriyankaJGupta2410/spend_tracker) | Full-stack expense tracker with JWT auth, monthly summaries, and spending insights | Python, FastAPI, SQLAlchemy, MySQL |
 | 🧠 [Expert-System](https://github.com/PriyankaJGupta2410/Expert-System) | Prolog expert systems for food recognition & family relationship inference | Prolog |
