@@ -75,16 +75,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PriyankaJGupta2410&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PriyankaJGupta2410&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaJGupta2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaJGupta2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=JavaLearning" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaJGupta2410&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PriyankaJGupta2410&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaJGupta2410&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
